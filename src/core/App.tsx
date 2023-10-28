@@ -1,16 +1,22 @@
-import "primereact/resources/themes/lara-light-indigo/theme.css";
+
+
 import './App.css';
-import { PrimeReactProvider } from 'primereact/api';
-import { BrowserRouter, Route } from 'react-router-dom';
-function App() {
+import "primereact/resources/themes/lara-light-indigo/theme.css";
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import Home from '../pages/home/Home';
+
+function App () {
   return (
-    <PrimeReactProvider>
-      <BrowserRouter>
-      <Route>
-      
+    <BrowserRouter>
+    <Routes>
+    <Route path="react-prime/" element={<Home/>}> </Route>
+      <Route path="react-prime/home" element={<Home />}> 
+        <Route index element={<Home />} />
       </Route>
-      </BrowserRouter>
-    </PrimeReactProvider>
+     
+    </Routes>
+  </BrowserRouter>
+     
   );
 }
 
