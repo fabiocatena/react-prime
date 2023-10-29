@@ -1,0 +1,17 @@
+.login-card {
+  margin-top: 150px;
+}
+
+.margin-top-input {
+  margin-top: 10px;
+}
+
+.flex-buttons {
+    display: inline-flex;
+    text-align: center !important;
+    width: 100%;
+}
+
+.amrgin-button {
+    margin-right: 10px;
+}
