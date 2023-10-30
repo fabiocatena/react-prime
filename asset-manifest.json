@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-prime/static/css/main.448d057d.css",
-    "main.js": "/react-prime/static/js/main.0bb30cf6.js",
+    "main.js": "/react-prime/static/js/main.6ec27b2b.js",
     "static/js/787.d0752023.chunk.js": "/react-prime/static/js/787.d0752023.chunk.js",
     "static/media/primeicons.svg": "/react-prime/static/media/primeicons.e1441b135b3ca9ad643c.svg",
     "static/media/Inter-italic.var.woff2?v=3.19": "/react-prime/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
@@ -12,11 +12,11 @@
     "static/media/primeicons.woff2": "/react-prime/static/media/primeicons.78172950b335ccdb94e2.woff2",
     "index.html": "/react-prime/index.html",
     "main.448d057d.css.map": "/react-prime/static/css/main.448d057d.css.map",
-    "main.0bb30cf6.js.map": "/react-prime/static/js/main.0bb30cf6.js.map",
+    "main.6ec27b2b.js.map": "/react-prime/static/js/main.6ec27b2b.js.map",
     "787.d0752023.chunk.js.map": "/react-prime/static/js/787.d0752023.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.448d057d.css",
-    "static/js/main.0bb30cf6.js"
+    "static/js/main.6ec27b2b.js"
   ]
 }
