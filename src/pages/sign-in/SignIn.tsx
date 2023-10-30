@@ -1,12 +1,10 @@
 import './SignIn.css'
 import { InputText } from 'primereact/inputtext';
 import { Card } from 'primereact/card';
-import React, { useState} from "react";
+import React, {useState} from "react";
 import { classNames } from 'primereact/utils';
-
 import { SelectButton } from 'primereact/selectbutton';
 import { Button } from 'primereact/button';
-
 const SignIn: React.FC = () => {
   
     const options = ['Off', 'On'];
