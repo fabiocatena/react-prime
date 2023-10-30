@@ -8,9 +8,9 @@ import { Button } from 'primereact/button';
 const SignIn: React.FC = () => {
   
     const options = ['Off', 'On'];
-    const value = false;
+    
 
-    const rememberMe = useState(value);
+    const rememberMe = useState(false);
 
 
 
